@@ -350,8 +350,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>CONTACTS</b><br><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>LINK</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\">Website Creator</p><p class=\"mbr-contacts__text\"><strong><br></strong><a href=\"http://developersouthafricas.com\" target=\"_blank\">Website creator</a></p>",
+          "text1": "<b>CONTACTS</b><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: support@mobirise.com</span><br>\nPhone: +1 (0) 000 0000 001<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LINK</b></p><p class=\"mbr-contacts__text\"><span style=\"font-size: 0.875rem; line-height: 1.5;\">Website Creator</span><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a href=\"http://developersouthafricas.com\" target=\"_blank\">Website creator</a></p>",
           "form": {
             "title": "MESSAGE",
             "action": "developersouthafrica@gmail.com",
