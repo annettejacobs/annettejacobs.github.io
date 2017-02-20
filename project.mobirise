@@ -16,7 +16,7 @@
         "subtitleFont": "Oswald",
         "textFont": "Oswald",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       }
