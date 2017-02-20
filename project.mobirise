@@ -351,10 +351,10 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<b>CONTACTS</b><br><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>LINK</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><strong><br></strong><a href=\"http://developersouthafricas.com\" target=\"_blank\">Website creator</a></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LINK</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\">Website Creator</p><p class=\"mbr-contacts__text\"><strong><br></strong><a href=\"http://developersouthafricas.com\" target=\"_blank\">Website creator</a></p>",
           "form": {
             "title": "MESSAGE",
-            "action": "qasmooth@gmail.com",
+            "action": "developersouthafrica@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
