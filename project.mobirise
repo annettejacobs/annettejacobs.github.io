@@ -237,12 +237,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "mobirise",
+              "name": "idea",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "size": "50",
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Electrical repairs",
@@ -257,8 +258,9 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "size": "50",
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Paint jobs",
@@ -273,8 +275,9 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "size": "50",
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Wood work",
@@ -289,8 +292,9 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "size": "50",
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "Swimming pool repairs",
