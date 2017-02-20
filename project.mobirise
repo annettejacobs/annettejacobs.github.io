@@ -66,9 +66,8 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/th7d0wb3sd-1400x1027.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -82,8 +81,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 250
+              "size": 250,
+              "active": true
             }
           },
           "title": "GREG BESTER: HANDYMAN",
