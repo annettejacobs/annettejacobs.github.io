@@ -45,19 +45,19 @@
           "_name": "header2",
           "_anchor": "header2-7",
           "_params": {
-            "imageSize": 50,
-            "parallax": true,
+            "imageSize": "46",
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#c0a375",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#c0a375",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -212,8 +212,8 @@
           "_anchor": "features7-c",
           "_params": {
             "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -350,8 +350,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Cont</span><span style=\"color: rgb(124, 124, 124); font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">acts</span><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Website</span>&nbsp;administrator</p>",
+          "text1": "<b>CONTACTS</b><br><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LINK</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><strong><br></strong><a href=\"http://developersouthafricas.com\" target=\"_blank\">Website creator</a></p>",
           "form": {
             "title": "MESSAGE",
             "action": "qasmooth@gmail.com",
@@ -387,6 +387,9 @@
             },
             "P": {
               "color": "#ffffff"
+            },
+            "B": {
+              "color": "#000000"
             }
           }
         }
