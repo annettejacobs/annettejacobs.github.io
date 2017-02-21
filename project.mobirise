@@ -193,7 +193,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Powered by DevSA</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
         },
         {
           "_inherit": "features4",
@@ -221,7 +221,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#879b74",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -286,7 +286,7 @@
           },
           "title3": "Wood work",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "- garbage disposal repair &amp; install<br>- gutter leaks<br>- HVAC troubleshooting<br>- lock installation<br>- painting &amp; staining<br>- patch &amp; match drywall or paint repair<br>- power washing<br>- pool screen lanai repair/replace<br>- shelving installation<br>- window latch repairs",
+          "caption3": "- sink disposal repair &amp; install<br>- gutter leaks<br>- HVAC troubleshooting<br>- lock installation<br>- painting &amp; staining<br>- patch &amp; match drywall or paint repair<br>- power washing<br>- pool screen lanai repair/replace<br>- shelving installation<br>- window latch repairs",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
