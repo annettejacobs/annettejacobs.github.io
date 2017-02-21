@@ -56,8 +56,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -90,7 +90,7 @@
             }
           },
           "title": "GREG BESTER: HANDYMAN",
-          "text": "<b>DO YOU NEED ASSISTANCE WITH &nbsp;YOUR DIY JOBS.&nbsp;<br>ELECTRICAL APPLIANCES, SWMMING POOL REPAIRS, PAINT JOBS,<br>WOOD WORK.</b> <br><br><b>NO JOB IS CONSIDERED TOO SMALL.<br><span style=\"font-size: 1rem; line-height: 1.5;\">COVER AREAS FROM THE SOUTH TO THE WEST</span></b><br>",
+          "text": "DO YOU NEED ASSISTANCE WITH &nbsp;YOUR DIY JOBS.&nbsp;<br>ELECTRICAL APPLIANCES, SWMMING POOL REPAIRS, PAINT JOBS,<br>WOOD WORK. <br><br>NO JOB IS CONSIDERED TOO SMALL.<br><span style=\"font-size: 1rem; line-height: 1.5;\">COVER AREAS FROM THE SOUTH TO THE WEST</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-text": {
