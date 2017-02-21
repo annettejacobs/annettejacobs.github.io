@@ -89,8 +89,8 @@
               "size": 250
             }
           },
-          "title": "GREG BESTER: HANDYMAN",
-          "text": "DO YOU NEED ASSISTANCE WITH &nbsp;YOUR DIY JOBS.&nbsp;<br>ELECTRICAL APPLIANCES, SWMMING POOL REPAIRS, PAINT JOBS,<br>WOOD WORK. <br><br>NO JOB IS CONSIDERED TOO SMALL.<br><span style=\"font-size: 1rem; line-height: 1.5;\">COVER AREAS FROM THE EAST TO THE WEST</span><br>",
+          "title": "GEORGE BESTER: HANDYMAN",
+          "text": "DO YOU NEED ASSISTANCE WITH &nbsp;YOUR DIY JOBS.&nbsp;<br>SPECIALIZING IN: INSTALLATIONS,<br>MAINTENANCE, REPAIRS, DRYWALLING,<br>PAINTING AND MUCH MORE.&nbsp;<br><br>NO JOB IS CONSIDERED TOO SMALL.<br><span style=\"font-size: 1rem; line-height: 1.5;\">COVER AREAS FROM THE EAST TO THE WEST</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-text": {
@@ -193,7 +193,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Powered by DevSA</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Electrical appliances</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Paint jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">WooD work</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Swimming pool repairs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
         },
         {
           "_inherit": "features4",
@@ -232,7 +232,7 @@
             "overlayColor": "#222",
             "columns": 4,
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
@@ -241,7 +241,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "idea",
+              "name": "star",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -250,15 +250,15 @@
               "newWindow": false
             }
           },
-          "title1": "Electrical repairs",
+          "title1": "",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Fixing of all electrical appliances and<br>electrical wiring",
+          "caption1": "- appliance installation<br>- attic fans<br>- install/remove blinds<br>-repair ceiling leaks<br>-drywall repairs<br>-ceramic tile install/removal<br>- closet door repairs<br>-caulking &amp; grouting<br>- dimmer switches<br>- hot water tank repair/replace",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "change-style",
+              "name": "star",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -269,13 +269,13 @@
           },
           "title2": "Paint jobs",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Paint of furniture, units, walls -<br>inside and out<br>",
+          "caption2": "- exterior &amp; interior door repairs<br>- repair all sliding glass doors (rollers)<br>- faucet repairs &amp; replacements<br>-install TV mounts<br>- electrical &amp; lighting<br>-exterior flood lights<br>- fixture mountings<br>- furniture assembly<br>- garage door opener/replace &amp; install<br>- weather stripping",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "database",
+              "name": "star",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -286,13 +286,13 @@
           },
           "title3": "Wood work",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Sanding of wood, varnishing<br>and repairs",
+          "caption3": "- garbage disposal repair &amp; install<br>- gutter leaks<br>- HVAC troubleshooting<br>- lock installation<br>- painting &amp; staining<br>- patch &amp; match drywall or paint repair<br>- power washing<br>- pool screen lanai repair/replace<br>- shelving installation<br>- window latch repairs",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "sun",
+              "name": "star",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -303,7 +303,7 @@
           },
           "title4": "Swimming pool repairs",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Swimming pool accessories&nbsp;<br>repearing, leaks and painting",
+          "caption4": "- hurrican shutters<br>- sink install/repair<br>- gate repairs<br>- products assemblies<br>- showerhead install/repair<br>- skylight install/repair<br>- smoke detectors<br>- toilet install/repairs<br>- vent repairs<br>- mirror installation",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
