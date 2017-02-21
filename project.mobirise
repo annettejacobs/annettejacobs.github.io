@@ -360,12 +360,12 @@
             "title": "MESSAGE",
             "action": "developersouthafrica@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -375,7 +375,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Phone"
               },
               "message": {
