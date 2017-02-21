@@ -56,7 +56,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
@@ -66,8 +66,9 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/man-1400x1905.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -85,8 +86,7 @@
               "name": "smile-face",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 250,
-              "active": true
+              "size": 250
             }
           },
           "title": "GREG BESTER: HANDYMAN",
