@@ -95,6 +95,10 @@
           "_styles": {
             ".mbr-section-text": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "text-align": "center"
             }
           }
         },

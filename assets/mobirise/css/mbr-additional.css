@@ -416,6 +416,10 @@ h6,
 #header2-7 .mbr-section-text {
   text-align: center;
 }
+#header2-7 .mbr-section-title {
+  color: #c0a375;
+  text-align: center;
+}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
